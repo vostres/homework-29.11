@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+        <title>Sample website</title>
+    </head>
+    <body>
+    <a href="http://www.sneakerhead.com">This is a link.</a>
+    </body>
+</html>
