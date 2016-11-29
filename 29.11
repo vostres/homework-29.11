@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
     <head>
-    <meta charset="utf-8">
-        <title>Sample website</title>
+        <title> </title>
     </head>
     <body>
-    <a href="http://www.sneakerhead.com">This is a link.</a>
+    <img src="homework1/cat.jpg" alt="Funny cat" >
     </body>
 </html>
